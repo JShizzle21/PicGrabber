@@ -24,5 +24,5 @@ Before you run the program you need to change three file paths in the Main.java 
 On line 13 designate where you want the Desktop Background folders to be saved
 
 '''
-public final static String Desktop_Background_Folder = "C:\\Users\\[USERNAME]\\AppData\\Local\\Microsoft\\Windows\\Themes\\CustomPics";
+code stuff
 '''
