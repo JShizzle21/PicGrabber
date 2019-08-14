@@ -45,8 +45,20 @@ Other than these three values nothing else needs to be changed
 ## Running Pic Grabber
 Once the code is updated running the program should be very simple! All you need to do is open up your IDE and run the program whenever you see a new lock screen picture! 
 
+**Note: The program won't run if the folders you designated don't currently exist!
+
 Once you run the program you should see something like this: 
 
 ![eclipse_message](readme_pics/eclipse_message.JPG)
 
-From what I have noticed you will only get new images once you actually see the lock screen image change when you start your computer. You can feel free to run the program at any time just to check though. Also once the program is run and new images are placed in your designated folders, the images will have crazy names like "411c0279b723462c7217a21cb5564c9d6798fbe76db1b0dcaca3d9705169ca29"
+From what I have noticed you will only get new images once you actually see the lock screen image change when you start your computer. You can feel free to run the program at any time just to check though. Also once the program is run and new images are placed in your designated folders, the images will have crazy names like "411c0279b723462c7217a21cb5564c9d6798fbe76db1b0dcaca3d9705169ca29" you can feel free to change the name or leave it (I usually just leave it)
+
+## Setting Windows Desktop to use grabbed images!
+
+Personally I love finding great and unique desktop background images! Because of this I pull images from a variety of sources. In this section I'm going to detail the setting I have done in order to make this happen nice and efficiently!
+
+All of the Windows Themes are saved in the following folder:
+
+```
+C:\Users\[USERNAME]\AppData\Local\Microsoft\Windows
+
