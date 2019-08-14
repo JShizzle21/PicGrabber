@@ -38,3 +38,11 @@ on line 20 change the value of [USERNAME] (don't change the rest of the filepath
 ```
 public final static String lockPicFolder = "C:\\Users\\[USERNAME]\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets";
 ```
+Other than these three values nothing else needs to be changed
+
+## Running Pic Grabber
+Once the code is updated running the program should be very simple! All you need to do is open up your IDE and run the program whenever you see a new lock screen picture! 
+
+Once you run the program you should see something like this: 
+
+
