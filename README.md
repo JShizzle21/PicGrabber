@@ -33,6 +33,8 @@ On line 14 change the value of [USERNAME] or specify entirely different director
 public final static String Phone_Background_Folder = "C:\\Users\\[USERNAME]\\Pictures\\Phone_Backgrounds";
 ```
 
+** You can designate the same folder for both if you don't want them to be separated **
+
 on line 20 change the value of [USERNAME] (don't change the rest of the filepath)
 
 ```
