@@ -21,8 +21,14 @@ I'm not going to include any download instructions in this repository because th
 ## Running the program
 Before you run the program you need to change three file paths in the Main.java code
 
-On line 13 designate where you want the Desktop Background folders to be saved
+On line 13 change the value of [USERNAME] or specify an entirely different directory to save the desktop background images
+The reason I chose this specific folder is explained below!
 
-'''
-code stuff
-'''
+```
+public final static String Desktop_Background_Folder = "C:\\Users\\[USERNAME]\\AppData\\Local\\Microsoft\\Windows\\Themes\\CustomPics";
+```
+
+On line 14 change the value of [USERNAME] or specify entirely different directory to save the phone background images
+```
+public final static String Phone_Background_Folder = "C:\\Users\\[USERNAME]\\Pictures\\Phone_Backgrounds";
+```
