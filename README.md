@@ -47,4 +47,4 @@ Once you run the program you should see something like this:
 
 ![eclipse_message](readme_pics/eclipse_message.JPG)
 
-
+From what I have noticed you will only get new images once you actually see the lock screen image change when you start your computer. You can feel free to run the program at any time just to check though. Also once the program is run and new images are placed in your designated folders, the images will have crazy names like "411c0279b723462c7217a21cb5564c9d6798fbe76db1b0dcaca3d9705169ca29"
