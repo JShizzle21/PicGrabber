@@ -21,7 +21,7 @@ I'm not going to include any download instructions in this repository because th
 ## Update Main.java
 Before you run the program you need to change three file paths in the Main.java code. Basically you have to specify your username directory (this is the folder that contains Desktop, Documents, Pictures, etc.)
 
-On line 13 change the value of [USERNAME] or specify an entirely different directory to save the desktop background images
+On line 13 change the value of [USERNAME] or specify an entirely different directory to save the desktop background images. 
 The reason I chose this specific folder is explained below!
 
 ```
@@ -35,7 +35,7 @@ public final static String Phone_Background_Folder = "C:\\Users\\[USERNAME]\\Pic
 
 ** You can designate the same folder for both if you don't want them to be separated **
 
-on line 20 change the value of [USERNAME] (don't change the rest of the filepath)
+On line 20 change the value of [USERNAME] (don't change the rest of the filepath)
 
 ```
 public final static String lockPicFolder = "C:\\Users\\[USERNAME]\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets";
