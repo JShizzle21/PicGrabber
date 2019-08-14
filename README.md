@@ -3,7 +3,7 @@ The lock screen for Windows 10 generally has a very nice picture that would make
 
 ![lock_screen_pic](readme_pics/lock-screen.png)
 
-With my PicGrabber program you can grab the lock screen image and save it into the folder of your choice! Along with this in the folder where the lock screen picture is located there are usually a few other secret desktop background along with some phone background!
+With my PicGrabber program you can grab the lock screen image and save it into the folder of your choice! Along with this in the folder where the lock screen picture is located there are usually a few other secret desktop background pictures along with some phone background!
 
 For example, when I ran this program today I got the following images:
 
