@@ -68,13 +68,13 @@ C:\Users\[USERNAME]\AppData\Local\Microsoft\Windows\Themes
 ```
 Whenever you download a Microsoft theme a new folder is created in this directory that contain all of the theme images.
 
-In this folder created a "CustomPics" folder 
+In this folder I created a "CustomPics" folder 
 
 In the "Background" tab select the CustomPics folder
 
 You can now get all of the photos from other themes that you like and put them in the CustomPics folder!
 
-Along with this the Pic Grabber program (as I have it originally) designates this CustomPics folder to be the destination folder for all of the lock screen backgrounds so there is not copying and pasting pictures necessary!
+Along with this the Pic Grabber program (as I have it originally) designates this CustomPics folder to be the destination folder for all of the lock screen backgrounds so there is no copying and pasting pictures necessary!
 
 To add further simplicity, in my "Pictures" folder I added a shortcut to the CustomPics folder (right-click->New->Shortcut). This make it so I can easily find and add images that can be new desktop backgrounds! I also change the background settings to be a slideshow, to change every minute, and to shuffle!
 
