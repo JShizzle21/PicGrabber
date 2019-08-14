@@ -18,7 +18,7 @@ The PicGrabber program is a Java program. All that is included in this repositor
 
 I'm not going to include any download instructions in this repository because those can be found through many other sources! However, once you set up your IDE you should be able to just use my included Main.java file!
 
-## Running the program
+## Update Main.java
 Before you run the program you need to change three file paths in the Main.java code
 
 On line 13 change the value of [USERNAME] or specify an entirely different directory to save the desktop background images
