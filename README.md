@@ -1,2 +1,4 @@
 # Windows 10 PicGrabber
-Program to grab the images on the Windows 10 lock screen and copy them into another folder
+The lock screen for Windows 10 generally has a very nice picture that would make a perfect desktop background. For example like the image below: 
+
+![lock_screen_pic](readme_pics/lock-screen.png)
