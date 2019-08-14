@@ -10,14 +10,14 @@ public class Main {
 
 //CHANGE THESE TWO VARIABLES TO THE PROPER FOLDER NAMES!
 	//These are the folders where the lock screen picture will end up!
-	public final static String Desktop_Background_Folder = "C:\\Users\\johnn\\AppData\\Local\\Microsoft\\Windows\\Themes\\CustomPics";
-	public final static String Phone_Background_Folder = "C:\\Users\\johnn\\Pictures\\Phone_Backgrounds";
+	public final static String Desktop_Background_Folder = "C:\\Users\\[USERNAME]\\AppData\\Local\\Microsoft\\Windows\\Themes\\CustomPics";
+	public final static String Phone_Background_Folder = "C:\\Users\\[USERNAME]\\Pictures\\Phone_Backgrounds";
 /////////////
 	
 	//This is the folder where the lock screen pictures are located!
 	//"AppData" is a hidden folder so if you want to see it in file explorer you must enable hidden folders (not needed to make program work)
 	//lockPicFolder contains roughly 60 different files with no file endings. The lock screen pic is one of these!
-	public final static String lockPicFolder = "C:\\Users\\johnn\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets";
+	public final static String lockPicFolder = "C:\\Users\\[USERNAME]\\AppData\\Local\\Packages\\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\\LocalState\\Assets";
 	
 	//This is the kilobyte cutoff value in order to identify which files in the lockPicFolder are the wanted images because there is a lot of "junk" in this folder
 	//Generally a good desktop image will be over 500kb (I set it as 300 just to make sure I don't miss anything)
