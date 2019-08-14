@@ -11,6 +11,8 @@ For example, when I ran this program today I got the following images:
 
 [sunset_phone_background](readme_pics/phone_sunset.jpg)
 
+The fun thing is that neither of these pictures was currently my lock screen. After running the program it gave me 5 new desktop backgrounds and 5 new phone backgrounds (along with the current lock screen picture)
+
 ## Preliminary steps
 The PicGrabber program is a Java program. All that is included in this repository is the Main.java file for the program. It is not a complicated program so any development environment that has all of the java standard libraries should do. Unfortunately, I have not had the time or effort to create an executable with a GUI. However, the PicGrabber can be run through any Java IDE. I personally use [Eclipse Jee Oxygen](https://www.eclipse.org/downloads/).
 
@@ -19,4 +21,8 @@ I'm not going to include any download instructions in this repository because th
 ## Running the program
 Before you run the program you need to change three file paths in the Main.java code
 
-On approximately line 13 and 14 you need to specify t
+On line 13 designate where you want the Desktop Background folders to be saved
+
+'''
+public final static String Desktop_Background_Folder = "C:\\Users\\[USERNAME]\\AppData\\Local\\Microsoft\\Windows\\Themes\\CustomPics";
+'''
