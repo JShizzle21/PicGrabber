@@ -45,6 +45,6 @@ Once the code is updated running the program should be very simple! All you need
 
 Once you run the program you should see something like this: 
 
-![eclipse_message](readme_pics/eclipse_message.jpg)
+![eclipse_message](readme_pics/eclipse_message.JPG)
 
 
