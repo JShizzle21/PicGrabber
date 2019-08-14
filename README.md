@@ -55,10 +55,26 @@ From what I have noticed you will only get new images once you actually see the 
 
 ## Setting Windows Desktop to use grabbed images!
 
-Personally I love finding great and unique desktop background images! Because of this I pull images from a variety of sources. In this section I'm going to detail the setting I have done in order to make this happen nice and efficiently!
+Personally I love finding great and unique desktop background images! Because of this I pull images from a variety of sources (other microsoft themes, lock screen pics, reddit-> my favorite is r/EarthPorn). In this section I'm going to detail the setting I have done in order to make this happen nice and efficiently!
+
+With Windows 10, the folder that it used to get the desktop backgrounds can be customized. You can download themes from the microsoft store. However, you can also create a custom theme, and copy all the images you like from the various microsoft themes into this folder!
+
+Themes can be downloaded by right-clicking the Desktop and selecting "Personalize" and then "Themes". From the theme page you can download themes, select the background images, colors, sounds, and Mouse cursor. However, you can also make a custom theme!
 
 All of the Windows Themes are saved in the following folder:
 
 ```
-C:\Users\[USERNAME]\AppData\Local\Microsoft\Windows
+C:\Users\[USERNAME]\AppData\Local\Microsoft\Windows\Themes
+```
+Whenever you download a Microsoft theme a new folder is created in this directory that contain all of the theme images.
+
+In this folder created a "CustomPics" folder 
+
+In the "Background" tab select the CustomPics folder
+
+You can now get all of the photos from other themes that you like and put them in the CustomPics folder!
+
+Along with this the Pic Grabber program (as I have it originally) designates this CustomPics folder to be the destination folder for all of the lock screen backgrounds so there is not copying and pasting pictures necessary!
+
+To add further simplicity, in my "Pictures" folder I added a shortcut to the CustomPics folder (right-click->New->Shortcut). This make it so I can easily find and add images that can be new desktop backgrounds! I also change the background settings to be a slideshow, to change every minute, and to shuffle!
 
